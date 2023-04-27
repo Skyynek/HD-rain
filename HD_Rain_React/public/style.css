@@ -1,0 +1,34 @@
+.mapboxgl-popup-content {
+    cursor: pointer;
+   
+}
+
+h1 {
+    color:#979797;
+    font-size: 1.1em;
+    padding-bottom: 5%;
+}
+.meteoContent {
+    display: flex;
+    gap: 15px;
+}
+
+.meteoSubContent {
+ display: inline-flex;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+.connect {
+   color: white;
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+ .link{
+    color:white;
+    text-decoration: underline;
+    cursor: pointer;
+}
